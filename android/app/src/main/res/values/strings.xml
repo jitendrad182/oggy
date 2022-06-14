@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Oggy</string>
+    <string name="facebook_app_id">313299324295814</string>
+    <string name="fb_login_protocol_scheme">fb313299324295814</string>
+    <string name="facebook_client_token">922e0faf49f9e94b7aa59783da6bfc60</string>
+</resources>
